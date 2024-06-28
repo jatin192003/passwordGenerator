@@ -9,9 +9,7 @@ Welcome to the Password Generator web app! This project is a simple yet effectiv
 - **Include Special Characters**: Option to include special characters in the password.
 - **Copy to Clipboard**: Easily copy the generated password to your clipboard with a single click.
 
-## Screenshots
 
-![Password Generator](https://drive.google.com/file/d/1aabtvoT8k5H1CKsZMnCLkhCEvuD2RP9Y/view?usp=sharing)
 
 
 
@@ -21,3 +19,37 @@ Welcome to the Password Generator web app! This project is a simple yet effectiv
 
    ```sh
    git clone https://github.com/your-username/password-generator.git
+
+2. Navigate to the project directory:
+
+   ```sh
+   cd password-generator
+
+3. install  dependencies
+
+   ```sh
+   npm install
+
+4. Start the development server
+
+   ```sh
+   npm run dev
+
+## Usage
+
+- Adjust the password length using the slider.
+- Toggle the inclusion of numbers and special characters using the checkboxes.
+- Click the "Generate New Password" button to generate a new password.
+- Copy the generated password to your clipboard by clicking the copy icon.
+
+## Technologies Used
+
+- React.js
+- Tailwind CSS
+- React Icons
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
+
+
