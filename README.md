@@ -11,11 +11,9 @@ Welcome to the Password Generator web app! This project is a simple yet effectiv
 
 ## Screenshots
 
-![Password Generator](path-to-screenshot)
+![Password Generator](https://drive.google.com/file/d/1aabtvoT8k5H1CKsZMnCLkhCEvuD2RP9Y/view?usp=sharing)
 
-## Demo
 
-Check out the live demo [here](your-live-demo-link).
 
 ## Installation
 
